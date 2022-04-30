@@ -32,4 +32,4 @@ Embeds "https://i.imgflip.com/6eh2ab.jpg" in the Discord chat.
     17: Sad Pablo Escobar
     18: Tuxedo Winnie The Pooh
     19: Boardroom Meeting Suggestion
-   20: Monkey Puppet
+    20: Monkey Puppet
