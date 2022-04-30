@@ -6,7 +6,7 @@ Use this bot to create custom memes in your Discord server.
 
 ## Examples
 
-`meme 21 "I can create memes on discord" "Always been able to"`
+`?meme 21 "I can create memes on discord" "Always been able to"`
 
 Embeds "https://i.imgflip.com/6eh2ab.jpg" in the Discord chat.
 
