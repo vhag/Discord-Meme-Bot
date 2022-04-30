@@ -10,28 +10,26 @@ Use this bot to create custom memes in your Discord server.
 
 Embeds "https://i.imgflip.com/6eh2ab.jpg" in the Discord chat.
 
-`?list 2`
+`?list 1`
 
-    (Page 2 of 5)
-    21: Always Has Been
-    22: Mocking Spongebob
-    23: X, X Everywhere
-    24: Blank Nut Button
-    25: I Bet He's Thinking About Other Women
-    26: Panik Kalm Panik
-    27: They're The Same Picture
-    28: Is This A Pigeon
-    29: Bike Fall
-    30: Hide the Pain Harold
-    31: Guy Holding Cardboard Sign
-    32: Clown Applying Makeup
-    33: Inhaling Seagull
-    34: One Does Not Simply
-    35: This Is Fine
-    36: The Scroll Of Truth
-    37: Success Kid
-    38: Ancient Aliens
-    39: Roll Safe Think About It
-    40: This Is Where I'd Put My Trophy If I Had One
-
-
+    (Page 1 of 5)
+    1: Drake Hotline Bling
+    2: Two Buttons
+    3: Distracted Boyfriend
+    4: Running Away Balloon
+    5: UNO Draw 25 Cards
+    6: Left Exit 12 Off Ramp
+    7: Buff Doge vs. Cheems
+    8: Change My Mind
+    9: Gru's Plan
+    10: Bernie I Am Once Again Asking For Your Support
+    11: Waiting Skeleton
+    12: Batman Slapping Robin
+    13: Epic Handshake
+    14: Disaster Girl
+    15: Expanding Brain
+    16: Woman Yelling At Cat
+    17: Sad Pablo Escobar
+    18: Tuxedo Winnie The Pooh
+    19: Boardroom Meeting Suggestion
+   20: Monkey Puppet
